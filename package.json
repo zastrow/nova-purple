@@ -1,0 +1,21 @@
+{
+  "name": "nova-purple",
+  "displayName": "Nova Purple",
+  "description": "Inspired by Panic’s Nova.app and Prompt.app Neon Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nova Purple",
+        "uiTheme": "vs",
+        "path": "./themes/Nova Purple-color-theme.json"
+      }
+    ]
+  }
+}
